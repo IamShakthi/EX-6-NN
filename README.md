@@ -1,5 +1,5 @@
-<H3>Dario G</H3>
-<H3>212222230027</H3>
+<H3>NAME:YUVASAKTHI N.C</H3>
+<H3>212222240120</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
